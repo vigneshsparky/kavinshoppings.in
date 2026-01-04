@@ -218,7 +218,7 @@ body {
 }
 
 .accordion-body.open {
-    max-height: 5800px;
+    max-height: 6800px;
 }
 
 .accordion-content {
@@ -550,4 +550,5 @@ body {
     font-size: 3rem;
     margin-bottom: 20px;
     color: #ddd;
+
 }
